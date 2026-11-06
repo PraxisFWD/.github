@@ -2,6 +2,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="./logo-dark.svg">
   <img src="./logo-light.svg" alt="Praxis Forward" width="360">
 </picture>
+<br><br>
 
 Praxis Forward is a senior-led AI transformation partner for mid-market companies. We help operating leaders find where AI creates real customer and operational value, then make it work inside their systems and alongside their people. The people who advise you are the people who do the work.
 
