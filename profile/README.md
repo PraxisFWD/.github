@@ -4,7 +4,7 @@
 </picture>
 <br><br>
 
-Praxis Forward is a senior-led AI transformation partner for mid-market companies. We help operating leaders find where AI creates real customer and operational value, then make it work inside their systems and alongside their people. The people who advise you are the people who do the work.
+Praxis Forward is an AI transformation partner for mid-market companies. We help operating leaders find where AI creates real customer and operational value, then make it work inside their systems and alongside their people. The people who advise you are the people who do the work.
 
 ## Open source
 
